@@ -20,4 +20,4 @@ In additianal to PostreSQL image variables, the image uses environment variables
 
 See [FreeTDS docs](http://www.freetds.org/index.html)
 
-***NOTE*** **by default used TDS version 7.0**
+***NOTE:*** **by default used TDS version 7.0**
