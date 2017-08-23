@@ -4,7 +4,7 @@
 * **Name:** docker-postgres-tds-fdw
 
 ## About
-Official [PostreSQL docker image](https://hub.docker.com/_/postgres/) with [PostgreSQL foreign data wrapper](https://github.com/tds-fdw/tds_fdw)
+Official [PostreSQL docker image](https://hub.docker.com/_/postgres/) with [TDS foreign data wrapper](https://github.com/tds-fdw/tds_fdw)
 
 ## Build status
 [![Docker Automated buil](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r/valeryk/docker-postgres-tds-fdw/builds/)
@@ -23,4 +23,4 @@ In additianal to PostreSQL image variables, the image uses environment variables
 
 See [FreeTDS docs](http://www.freetds.org/index.html)
 
-***NOTE:*** **by default used TDS version 7.0**
+***NOTE:*** **by default is used TDS version 7.0**
